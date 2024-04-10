@@ -4,12 +4,12 @@ Its a sample java project .
 
 ## setup
 
-pull code 
+<li>pull code 
 
-import IDE like STS , ecilps
-clean code 
-got to src folder
-then go to Runable pakege 
-in side runable pakege Main class
-right clik 
-and run as java project
+<li>import IDE like STS , ecilps</li>
+<li>clean code </li>
+<li>got to src folder</li>
+<li>then go to Runable pakege </li>
+<li>in side runable pakege Main class</li>
+<li>right clik </li>
+<li>and run as java project</li>
